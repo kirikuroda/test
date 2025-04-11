@@ -1,7 +1,5 @@
 ---
 title: "About"
-aliases:
-  - dir1/about.html
 ---
 
 About this site
